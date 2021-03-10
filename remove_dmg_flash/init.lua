@@ -1,0 +1,1 @@
+ModMagicNumbersFileAdd("mods/remove_dmg_flash/files/magic_numbers.xml")

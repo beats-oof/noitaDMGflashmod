@@ -1,0 +1,6 @@
+<Mod
+	name="Reduce Damage Flash"
+	description="Reduces the intensity of the damage flash."
+	request_no_api_restrictions="0"
+>
+</Mod>
